@@ -1,0 +1,38 @@
+.container-fluid{
+    margin-top: 0px;
+    color: white;
+}
+nav{
+    margin-bottom: 40px;
+    background-color: #0f0f19;
+}
+.bg{
+    background-color: #0f0f19;
+}
+body{
+    color: white;
+    overflow-x: hidden;
+}
+
+.space{
+    margin-top: 16px;
+    margin-left: 30px;
+    font-weight: 600;
+    text-shadow: 1px 1px 1px white;;
+}
+
+.link{
+    transition: 1s;
+}
+
+
+.link:hover{
+    color: #f7b940 !important;
+}
+
+#about{
+    color: white;
+    font-family: 'Rajdhani', serif;
+    font-size: 23px;
+    text-underline-offset: 13px;
+}
