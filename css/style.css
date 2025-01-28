@@ -36,3 +36,66 @@ body{
     font-size: 23px;
     text-underline-offset: 13px;
 }
+
+#skills{
+    background-color: #112b3b;
+    font-family: 'Rajdhani', serif;
+}
+
+#services{
+    background-color: #1b1e22;
+    font-family: 'Rajdhani', serif;
+}
+
+#services1{
+    background-color: #1b1e22;
+}
+
+#completed{
+    background-color: #112b3b;
+}
+
+.space-grid{
+    margin-bottom: 60px;
+    font-size: 24px;
+    font-weight: 400;
+    padding-left: 60px;
+}
+
+.MPS{
+    font-weight: 700;
+}
+
+.txta{
+    margin-left: 10px;
+    margin-top: 16px;
+    width: 550px;
+    height: 150px;
+    border:1px solid black;
+    padding: 15px;
+    color: rgb(72, 72, 72);
+    font-weight: 500;
+}
+
+
+.adjustment{
+  margin-bottom: 15px;
+  margin-left: 10px;
+  width: 550px;
+  border:1px solid black;
+  padding: 15px;
+  border-radius: 0px;
+  background-color: transparent;
+  color: rgb(72, 72, 72);
+  font-weight: 500;
+}
+
+.txtc{
+    color: #535353;
+}
+
+
+input::placeholder {
+    color:#939393;
+    opacity: 1; 
+}
